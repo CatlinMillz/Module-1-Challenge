@@ -1,17 +1,26 @@
 # Module-1-Challenge
 
-## Description
+## User Story
 
-- What was your motivation?
-  To be able to make the webpage accessible and understandable for everyone and anyone.
-- Why did you build this project?
-  To clean up the code so it's user friendly whether it's a visitor to the site or a developer who wishes to read the HTML and CSS of the page.
-- What problem does it solve?
-  Adding accessibility features for images, fixing a broken link, adding a wesbite description on the browser tab, and organizing the code so it's clean and searchable.
-- What did you learn?
-  How to add some accessibility features as well as how to organize code that looked fine externally but needed some tweaking internally.
+...
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+...
 
-## Credits
+## Acceptance Criteria
+...
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HMTL elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive value
+...
 
-Starter Code: https://github.com/coding-boot-camp/urban-octo-telegram
-
+![demo](./demo.png)

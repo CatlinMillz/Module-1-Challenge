@@ -23,4 +23,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive value
 ...
 
+### Demo
+[https://catlinmillz.github.io/Module-1-Challenge/](https://catlinmillz.github.io/Module-1-Challenge/)
+
 ![demo](./demo.png)
